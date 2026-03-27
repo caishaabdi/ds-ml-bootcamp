@@ -1,7 +1,5 @@
 # Disease Predictor | AI-Based Medical Diagnosis Assistant
 
-**Name:** Mohamed Bashir Nuh
-
 ## Project Title
 AI-Powered Disease Prediction System Using Machine Learning
 
