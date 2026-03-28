@@ -24,3 +24,5 @@ Customer Churn Prediction API project
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Setup instructions (this file)
 ```
+## GitHub Repository Link
+https://github.com/saarasuwiis9/Customer-Churn-Prediction-System
